@@ -1,4 +1,7 @@
+[en](README.md)  [zh](README_zh.md)
+
 # hellow-word
+
 
 第一个存储库
 
