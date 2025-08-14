@@ -1,4 +1,6 @@
-[en](README.md)  [zh](README_zh.md)
+
+![en](README.md)
+![zh](README_zh.md)
 
 # hellow-word
 
